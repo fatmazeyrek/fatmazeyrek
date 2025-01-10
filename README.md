@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatma Zeyrek</h1>
+<h1 align="center">I'm Fatma Zeyrek</h1>
 <h3 align="center">Computer Engineering student at Istanbul Medeniyet University</h3>
 
 
