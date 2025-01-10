@@ -1,4 +1,4 @@
-![profile](https://www.canva.com/design/DAGbzAH2r-I/ZLNZdoc10Q2jDoQs-9JreQ/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19fQ)
+![profile]([https://www.canva.com/design/DAGbzAH2r-I/ZLNZdoc10Q2jDoQs-9JreQ/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19fQ](https://github.com/fatmazeyrek/fatmazeyrek/blob/main/Mavi%20ve%20Beyaz%20Soyut%20Teknoloji%20LinkedIn%20Banner.png))
 
 
 <h1 align="center">Hi 👋, I'm Fatma Zeyrek</h1>
